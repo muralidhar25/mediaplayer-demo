@@ -1,0 +1,31 @@
+C:\Projects\mediaplayer\mediaplayer\bin\Debug\mediaplayer.exe.config
+C:\Projects\mediaplayer\mediaplayer\bin\Debug\mediaplayer.exe
+C:\Projects\mediaplayer\mediaplayer\bin\Debug\mediaplayer.pdb
+C:\Projects\mediaplayer\mediaplayer\bin\Debug\Interop.WMPLib.dll
+C:\Projects\mediaplayer\mediaplayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Projects\mediaplayer\mediaplayer\obj\Debug\mediaplayer.csprojAssemblyReference.cache
+C:\Projects\mediaplayer\mediaplayer\obj\Debug\Interop.WMPLib.dll
+C:\Projects\mediaplayer\mediaplayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Projects\mediaplayer\mediaplayer\obj\Debug\mediaplayer.csproj.ResolveComReference.cache
+C:\Projects\mediaplayer\mediaplayer\obj\Debug\mediaplayer.Form1.resources
+C:\Projects\mediaplayer\mediaplayer\obj\Debug\mediaplayer.Properties.Resources.resources
+C:\Projects\mediaplayer\mediaplayer\obj\Debug\mediaplayer.csproj.GenerateResource.cache
+C:\Projects\mediaplayer\mediaplayer\obj\Debug\mediaplayer.csproj.CoreCompileInputs.cache
+C:\Projects\mediaplayer\mediaplayer\obj\Debug\mediaplayer.exe
+C:\Projects\mediaplayer\mediaplayer\obj\Debug\mediaplayer.pdb
+C:\Projects\mediaplayer\mediaplayer\bin\Debug\Enums.cs
+C:\Users\Muralidhar Dubey\Downloads\mediaplayer\mediaplayer\bin\Debug\mediaplayer.exe.config
+C:\Users\Muralidhar Dubey\Downloads\mediaplayer\mediaplayer\bin\Debug\mediaplayer.exe
+C:\Users\Muralidhar Dubey\Downloads\mediaplayer\mediaplayer\bin\Debug\mediaplayer.pdb
+C:\Users\Muralidhar Dubey\Downloads\mediaplayer\mediaplayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Muralidhar Dubey\Downloads\mediaplayer\mediaplayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Muralidhar Dubey\Downloads\mediaplayer\mediaplayer\obj\Debug\mediaplayer.csproj.AssemblyReference.cache
+C:\Users\Muralidhar Dubey\Downloads\mediaplayer\mediaplayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Muralidhar Dubey\Downloads\mediaplayer\mediaplayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Muralidhar Dubey\Downloads\mediaplayer\mediaplayer\obj\Debug\mediaplayer.csproj.ResolveComReference.cache
+C:\Users\Muralidhar Dubey\Downloads\mediaplayer\mediaplayer\obj\Debug\mediaplayer.Form1.resources
+C:\Users\Muralidhar Dubey\Downloads\mediaplayer\mediaplayer\obj\Debug\mediaplayer.Properties.Resources.resources
+C:\Users\Muralidhar Dubey\Downloads\mediaplayer\mediaplayer\obj\Debug\mediaplayer.csproj.GenerateResource.cache
+C:\Users\Muralidhar Dubey\Downloads\mediaplayer\mediaplayer\obj\Debug\mediaplayer.csproj.CoreCompileInputs.cache
+C:\Users\Muralidhar Dubey\Downloads\mediaplayer\mediaplayer\obj\Debug\mediaplayer.exe
+C:\Users\Muralidhar Dubey\Downloads\mediaplayer\mediaplayer\obj\Debug\mediaplayer.pdb
